@@ -1,1 +1,1 @@
-Sitemap: /BurgessLab/sitemap.xml
+Sitemap: /sitemap.xml
