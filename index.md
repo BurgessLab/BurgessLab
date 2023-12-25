@@ -3,7 +3,7 @@
 
 # BurgessLab's Website
 
-An engaging 1-3 sentence description of your lab.
+How does the brain select appropriate behavior when faced with a constantly changing environment and fluctuating internal goals? And how is this process disrupted in neurodevelopmental disorders, like autism and schizophrenia? To answer theses questions, we study neural circuits that integrate sensory processing with behavioral state, using the power of the optically transparent zebrafish larva.
 
 {% include section.html %}
 
