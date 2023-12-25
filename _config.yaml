@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Harold Burgess Lab
+title: Burgess Lab
 subtitle: Neural Circuits and Behavior
 description: Genetic and imaging approaches to neural circuits and behavior
-header: images/banner1.jpg
-footer: images/banner1.jpg
+header: images/banner2.jpg
+footer: images/banner2.jpg
 
 # site social media and other links
 links:
