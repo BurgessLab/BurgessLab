@@ -7,14 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Here's a selection of recent work from the lab. Find a complete list of papers [here](https://www.ncbi.nlm.nih.gov/sites/myncbi/1hKJhzaU5dv/bibliography/43824171/public/?sort=date&direction=descending)
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="A cerebellar-prepontine circuit for tonic immobility triggered by an inescapable threat" style="rich" %}
 
 {% include section.html %}
 
