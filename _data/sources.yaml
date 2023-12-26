@@ -1,6 +1,22 @@
+- id: doi:10.1093/oons/kvac019
+
+- id: doi:10.1093/oons/kvac018
+
+- id: pubmed:37668910
+
 - id: doi:10.1126/sciadv.abo0549
   image: https://www.science.org/cms/10.1126/sciadv.abo0549/asset/70f4b98d-1cd2-4e56-963d-4a62cc4da43b/assets/images/large/sciadv.abo0549-f2.jpg
 
 - id: doi:10.1038/s41467-020-14965-y
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-14965-y/MediaObjects/41467_2020_14965_Fig7_HTML.png?as=webp
+  
+- id: pmc:PMC8771005
+
+- id: pmc:PMC6793939
+
+- id: pmc:PMC6392497
+
+- id: pmc:PMC6296225
+
+- id: pmc:PMC6410737
 

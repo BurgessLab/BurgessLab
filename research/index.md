@@ -11,16 +11,4 @@ Here's a selection of recent work from the lab. Find a complete list of papers [
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="A cerebellar-prepontine circuit for tonic immobility triggered by an inescapable threat" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
 {% include list.html data="citations" component="citation" style="rich" %}

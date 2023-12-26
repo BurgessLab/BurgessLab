@@ -34,8 +34,8 @@ Applications from prospective postdocs and grad students are welcome. Please sen
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/dc-blossoms.jpg"
+  caption="Cherry blossoms in Washington DC in spring"
 %}
 
 {% endcapture %}
@@ -44,32 +44,29 @@ Applications from prospective postdocs and grad students are welcome. Please sen
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/nih-bethesda.jpg"
+  caption="The lab is part of the NIH intramural research program"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/fish-facility.jpg"
+  caption="Part of the zebrafish facility at the NIH"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+This is not an official NIH site and does not represent official NIH or government views.
+{:.center}
 {% endcapture %}
 
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 %}
