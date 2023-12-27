@@ -32,7 +32,7 @@ Our previous work has uncovered all sorts of unexpected phenomena in zebrafish l
 
 {% capture text %}
 
-Current areas of interest in the lab include include discovering neurons that control fluctuating levels of arousal during wakefulness and understanding how environmental context influences the processing of sensory cues. We are especially interested in how gene mutations linked to autism and schizophrenia influence the functional development of these ciruits.
+Current areas of interest in the lab include include discovering neurons that control fluctuating levels of arousal during wakefulness and understanding how environmental context influences the processing of sensory cues. We are especially interested in how gene mutations linked to autism and schizophrenia influence the functional development of ciruits that mediate these function.
 
 {%
   include button.html
