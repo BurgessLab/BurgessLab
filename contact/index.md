@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Applications from prospective postdocs and grad students are welcome. Please send me your CV and briefly outline the type of research project you'd be interested in pursuing here.
+Applications from prospective postdocs and grad students are welcome. Please send your CV and briefly outline the type of research project you'd be interested in pursuing here.
 
 {%
   include button.html
