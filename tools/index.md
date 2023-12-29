@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Tools
 nav:
   order: 2
   tooltip: Software, datasets, and more
@@ -12,12 +12,8 @@ nav:
 
 {% include section.html %}
 
-## Tools for Zebrafish Neurobiology
-
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
-
-## More
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
