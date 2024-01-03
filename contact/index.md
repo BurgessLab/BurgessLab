@@ -7,19 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Applications from prospective postdocs and grad students are welcome. Please send your CV and briefly outline the type of research project you'd be interested in pursuing here.
+Applications from prospective postdocs and grad students are welcome. Please send your CV and briefly outline the type of research project you are interested in pursuing.
 
 {%
   include button.html
   type="email"
   text="burgessha@mail.nih.gov"
   link="jburgessha@mail.nih.gov"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(301) 402-6018"
-  link="+1-301-402-6018"
 %}
 {%
   include button.html
