@@ -2,16 +2,12 @@
 title: Updates
 nav:
   order: 4
-  tooltip: New and happenings
+  tooltip: News and happenings
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Updates
 
 {% include section.html %}
-
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
 

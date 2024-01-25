@@ -1,6 +1,5 @@
 ---
 title: Woods Hole in Winter
-author: harold-burgess
 tags: news
 ---
 <!-- excerpt start -->
