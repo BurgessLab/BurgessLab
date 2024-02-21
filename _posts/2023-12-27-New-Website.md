@@ -1,6 +1,7 @@
 ---
 title: Finally a new website
 tags: news
+image: images/icon.png
 ---
 Finally, thanks to the fantastic [Lab Website Template](https://github.com/greenelab/lab-website-template), I've been able to put together a nice looking lab website - welcome all! Many thanks to the [Greene Laboratory](https://github.com/greenelab) for putting together a markup-based website builder, that makes coding and updating a lab website quick and easy.
 <br>

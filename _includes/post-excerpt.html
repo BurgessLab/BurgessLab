@@ -5,6 +5,9 @@
 %}
 
 <div class="post-excerpt">
+  {% assign image = post.image %}
+  <img src="{{ image | relative_url }}" style="height: 100px; float: left;" />
+  
   {% assign url = post.url %}
   {% assign title = post.title %}
   <a href="{{ url | relative_url }}">{{ title }}</a>
