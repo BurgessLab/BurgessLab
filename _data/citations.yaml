@@ -117,17 +117,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: pmc:PMC6410737
-  title: Presynaptic Inhibition Selectively Gates Auditory Transmission to the Brainstem
-    Startle Circuit
-  authors:
-  - Kathryn M Tabor
-  - Trevor S Smith
-  - Mary Brown
-  - Sadie A Bergeron
-  - Kevin L Briggman
-  - Harold A Burgess
-  publisher: 'Current biology : CB'
-  date: '2018-08-20'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6410737/
   image: images/papers/2018_tabor.jpg
   plugin: sources.py
