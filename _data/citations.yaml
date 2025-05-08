@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/g3journal/jkaf052
+  title: Mutations in the microexon splicing regulator <i>srrm4</i> have minor phenotypic
+    effects on zebrafish neural development
+  authors:
+  - Tripti Gupta
+  - Gennady Margolin
+  - Harold A Burgess
+  publisher: 'G3: Genes, Genomes, Genetics'
+  date: '2025-03-07'
+  link: https://doi.org/g9hthx
+  image: images/papers/2025_gupta.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/oons/kvac019
   title: "A Critical Review of Zebrafish Neurological Disease Models\u22122. Application:\
     \ Functional and Neuroanatomical Phenotyping Strategies and Chemical Screens"
@@ -116,12 +129,19 @@
   image: images/papers/2018_gupta.jpg
   plugin: sources.py
   file: sources.yaml
-- id: pmc:PMC6410737
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6410737/
+- id: doi:10.1016/j.cub.2018.06.020
+  title: Presynaptic Inhibition Selectively Gates Auditory Transmission to the Brainstem
+    Startle Circuit
+  authors:
+  - Kathryn M. Tabor
+  - Trevor S. Smith
+  - Mary Brown
+  - Sadie A. Bergeron
+  - Kevin L. Briggman
+  - Harold A. Burgess
+  publisher: Current Biology
+  date: '2018-08-01'
+  link: https://doi.org/gdwtdc
   image: images/papers/2018_tabor.jpg
   plugin: sources.py
   file: sources.yaml

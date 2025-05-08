@@ -1,3 +1,6 @@
+- id: doi:10.1093/g3journal/jkaf052
+  image: images/papers/2025_gupta.jpg
+
 - id: doi:10.1093/oons/kvac019
   image: images/papers/2023_burton.png
   
@@ -22,6 +25,6 @@
 - id: pmc:PMC6296225
   image: images/papers/2018_gupta.jpg
 
-- id: pmc:PMC6410737
+- id: doi:10.1016/j.cub.2018.06.020
   image: images/papers/2018_tabor.jpg
 
