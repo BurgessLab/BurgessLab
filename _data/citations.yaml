@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42054452
+  title: Functional interrogation of neuronal connections by chemoptogenetic presynaptic
+    ablation.
+  authors:
+  - Hariom Sharma
+  - Jennifer M Panlilio
+  - Madalina A Robea
+  - Noel H McGrory
+  - Daniel C Bazan
+  - Edward A Burton
+  - Harold A Burgess
+  publisher: Science advances
+  date: '2026-04-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42054452
+  image: images/papers/2026_sharma.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/g3journal/jkaf052
   title: Mutations in the microexon splicing regulator <i>srrm4</i> have minor phenotypic
     effects on zebrafish neural development
