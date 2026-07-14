@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:42426269
+  title: Elevated body temperature exacerbates arrhythmia and seizure-like activity
+    in a zebrafish model of Timothy syndrome.
+  authors:
+  - Svetlana A Semenova
+  - Amir M Sams
+  - Deepthi Nammi
+  - Matthew Menold
+  - Gennady Margolin
+  - Jennifer L Sinclair
+  - Katelyn A Robertson
+  - Kerry Larkin
+  - Sydney Kelly
+  - Andy Golden
+  - Benjamin Feldman
+  - Harold A Burgess
+  publisher: Communications biology
+  date: '2026-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42426269
+  image: images/papers/2026_semenova.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: pubmed:42054452
   title: Functional interrogation of neuronal connections by chemoptogenetic presynaptic
     ablation.
